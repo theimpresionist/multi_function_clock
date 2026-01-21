@@ -73,9 +73,7 @@ multi_function_clock/
     └── timer.py         # Timer/countdown feature
 ```
 
-## 📝 License
 
-This project is open source and available under the MIT License.
 
 ---
 
