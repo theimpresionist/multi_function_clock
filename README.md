@@ -10,7 +10,7 @@ A multifunction digital clock application built with Python.
 - [ ] Stopwatch
 - [ ] Timer/Countdown
 - [ ] Date display
-- [ ] Theme customization
+
 
 ## 🚀 Getting Started
 
